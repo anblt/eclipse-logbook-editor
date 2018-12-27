@@ -20,4 +20,4 @@
 
 ### Plug-in Dependencies
 
-![Plug-in Dependencies](https://raw.githubusercontent.com/anblt/eclipse-logbook-editor/master/screenshots/dependencies.jpg)
+![Plug-in Dependencies](https://raw.githubusercontent.com/anblt/eclipse-logbook-editor/master/screenshots/dependencies1.jpg)
