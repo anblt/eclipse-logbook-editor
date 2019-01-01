@@ -2,10 +2,10 @@
 
 ### Motivation
 
-- This eclipse-based editor is a case-study for the implementation of an editor with syntax-highlighting, outline and preference dialog
-- It's main purpose is help me in maintaining the releasenotes for my projects. It's rough around the edges right now but it works.
+- This eclipse-based editor implements syntax-highlighting, structural outline and preference dialog
+- It's main purpose is to help me to maintain the releasenotes for my projects. It's rough around the edges right now but it works.
 - But one can also use it …
-  - … to maintain your project history/releasenotes
+  - … to maintain project history/releasenotes
   - … to denote project milestones
   - … to denote future events, reminders …
   - … and TODOs that have to be done meeting certain deadlines
